@@ -1,0 +1,16 @@
+*.ttc
+*~
+._*
+.DS_Store
+.sass-cache
+*.css.map
+tags
+
+*.mo
+
+www/js/config.js
+platforms
+plugins
+compiled
+locale/lang_list
+/config.xml
